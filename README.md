@@ -1,2 +1,2 @@
 # financialdata
-financial project with python test
+financial project with Jupyter Notebook
